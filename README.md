@@ -9,5 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I m hald Finnish
+- ⚡ Fun fact: ... I m a Chef
+
+https://github-readme-stats.vercel.app/api?username=badjatya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
