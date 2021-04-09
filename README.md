@@ -1,4 +1,10 @@
-### Hi there 👋 It's Archit Badjatya
+<h2 align="center">Hi there 👋 It's Archit Badjatya.</h2>
+<p align="center">
+  <a href="https://www.instagram.com/badjatya/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/badjatya/">Linkedin</a>
+</p>
+
+-------
 
 Here are some ideas to get you started:
 
