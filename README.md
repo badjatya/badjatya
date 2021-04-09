@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/badjatya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badjatya&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badjatya&theme=dark&hide_langs_below=1" />
 </a>
