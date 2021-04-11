@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I ❤️ 🐶s
 
 <p>
-    <a href="https://www.twitter.com/badjatya">
+    <a href="https://www.twitter.com/ArchitBadjatya">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a> 
     <a href="https://www.linkedin.com/in/badjatya">
