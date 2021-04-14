@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 -------
 
-## 🏆 GitHub Trophies
+<h4> 🏆 GitHub Trophies</h4>
 [![trophy](https://github-profile-trophy.vercel.app/?username=badjatya&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 -------
