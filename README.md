@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 -------
 
 ## 🏆 GitHub Trophies
+[![trophy]
 
 ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/badjatya/badjatya)
