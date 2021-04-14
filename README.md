@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=badjatya&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+-------
+
 ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/badjatya/badjatya)
 ![pv](https://pageview.vercel.app/?github_user=badjatya)
