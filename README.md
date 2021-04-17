@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 
 -------
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![build](https://github.com/mopig/mopig/workflows/build/
 ![GitHub last commit](https://img.shields.io/github/last-commit/badjatya/badjatya)
 ![pv](https://pageview.vercel.app/?github_user=badjatya)
