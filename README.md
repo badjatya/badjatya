@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=badjatya&theme=dark&show_icons=true" alt="Badjatya's Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=badjatya&count_private=true" alt="Badjatya's Github Stats" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
 
 -------
 
