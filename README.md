@@ -33,7 +33,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badjatya)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badjatya&theme=dark)](https://git.io/streak-stats)
 
 -------
