@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 -------
 
-[![Badjatya's wakatime stats](https://github-readme-stats.vercel.
+[![Badjatya's wakatime stats](https://
 
 -------
 
