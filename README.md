@@ -47,9 +47,6 @@ Here are some ideas to get you started:
 
 -------
 
-[![Badjatya's wakatime stats](https://
-
--------
 
 <h4> 🏆 GitHub Trophies</h4>
 
