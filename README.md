@@ -46,10 +46,7 @@ Here are some ideas to get you started:
 </a>
 
 -------
-
-<h4>📊 This week I spent my time on</h4>
 [![Badjatya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badjatya)](https://github.com/anuraghazra/github-readme-stats)
-
 -------
 
 <h4> 🏆 GitHub Trophies</h4>
