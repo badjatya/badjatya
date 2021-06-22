@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Javascript/C++/CSS or React/Bootstrap
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ArchitBadjatya/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I ❤️ 🐶s
+- ⚡ Fun fact: I ❤️ 🐶
 
 <p>
     <a href="https://www.twitter.com/ArchitBadjatya">
