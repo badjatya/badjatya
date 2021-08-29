@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/badjatya/">Linkedin</a>
 </p>
 
-Here are some ideas to get you started:
+Here are some ideas to get you Started:
 
 - 🔭 I’m currently working on something super Cool 😉
 - 🌱 I’m currently learning MERN Stack
