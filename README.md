@@ -37,13 +37,13 @@ Here are some ideas to get you Started:
 
 -------
 
-<img src="https://github-readme-stats.vercel.app/api?username=badjatya&count_private=true&theme=dark&show_icons=true" alt="Badjatya's Github Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=badjatya&count_private=true&theme=dark&show_icons=true" alt="Badjatya's Github Stats" /> -->
 
 -------
 
-<a href="https://github.com/badjatya">
+<!-- <a href="https://github.com/badjatya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badjatya&theme=dark&hide_langs_below=1" />
-</a>
+</a> -->
 
 -------
 [![Badjatya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badjatya)](https://github.com/anuraghazra/github-readme-stats)
