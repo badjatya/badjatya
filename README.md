@@ -9,7 +9,7 @@ Here are some ideas to get you Started:
 - 🔭 I’m currently working on something super cool 😉
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to Collaborate on React.js
-- 🤔 I’m looking for help with Node.js
+- 🤔 I’m looking for help with Next.js
 - 💬 Ask me about anything related to Javascript/CSS or React/Bootstrap
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)
 - 😄 Pronouns: He/Him
