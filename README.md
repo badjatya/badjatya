@@ -38,17 +38,6 @@ Here are some ideas to get you Started:
         <img src="https://github-readme-stats.vercel.app/api?username=badjatya&count_private=true&theme=darcula&show_icons=true&hide_rank=true&hide_border=true&title_color=DD8A37&icon_color=934BD1" alt="Badjatya's Github Stats" />
 </div>
 
-
--------
-
-<img src="https://github-readme-stats.vercel.app/api?username=badjatya&count_private=true&theme=dark&show_icons=true" alt="Badjatya's Github Stats" />
-
--------
-
-<a href="https://github.com/badjatya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badjatya&theme=dark&hide_langs_below=1" />
-</a>
-
 -------
 [![Badjatya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badjatya)](https://github.com/anuraghazra/github-readme-stats)
 -------
