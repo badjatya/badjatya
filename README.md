@@ -34,14 +34,15 @@ Here are some ideas to get you Started:
 </p>
 
 <div style="display: flex; flex-direction: row;"> 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=badjatya&theme=dark)](https://git.io/streak-stats)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=badjatya&theme=dark)](https://git.io/streak-stats) 
 
   <img src="https://github-readme-stats.vercel.app/api?username=badjatya&count_private=true&theme=dark&show_icons=true" alt="Badjatya's Github Stats" />
 </div>
 
 --
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=badjatya&theme=dark)](https://git.io/streak-stats) 
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=badjatya&theme=dark)](https://git.io/streak-stats) -->
 
 -------
 
