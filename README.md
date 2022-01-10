@@ -33,11 +33,9 @@ Here are some ideas to get you Started:
     </a>
 </p>
 
-<div style="display: flex; flex-direction: row;"> 
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=badjatya&theme=dark)](https://git.io/streak-stats) 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=badjatya&count_private=true&theme=dark&show_icons=true" alt="Badjatya's Github Stats" />
+<div style="display: flex; flex-direction: row;">
+        <img class src="http://github-readme-streak-stats.herokuapp.com?user=badjatya&theme=darcula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=DD8A37&currStreakNum=934BD1&sideLabels=D48E3F"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=badjatya&count_private=true&theme=darcula&show_icons=true&hide_rank=true&hide_border=true&title_color=DD8A37&icon_color=934BD1" alt="Badjatya's Github Stats" />
 </div>
 
 
