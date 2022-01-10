@@ -39,7 +39,7 @@ Here are some ideas to get you Started:
 </div>
 
 -------
-[![Badjatya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badjatya)](https://github.com/anuraghazra/github-readme-stats)
+[![Badjatya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badjatya&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -------
 
 <h4> 🏆 GitHub Trophies</h4>
