@@ -6,7 +6,7 @@
 
 Here are some ideas to get you Started:
 
-- 🔭 I’m currently working on something super cool 😉
+- 🔭 I’m currently working on something super cool and exciting😉
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to Collaborate on Reactjs
 - 🤔 I’m looking for help with Next.js
