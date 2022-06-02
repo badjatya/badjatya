@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something super cool and exciting😉
 - 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to Collaborate on Reactjs
+- 👯 I’m looking to collaborate on Reactjs
 - 🤔 I’m looking for help with Next.js
 - 💬 Ask me about anything related to Javascript/CSS or React/Node/Express/Bootstrap
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)
