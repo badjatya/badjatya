@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Reactjs and Nextjs
 - 🤔 I’m looking for help with Data Structures and Algorithms
-- 💬 Ask me about anything related to Javascript/CSS or MERN
+- 💬 Ask me about anything related to Javascript or MERN
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ❤️ 🐶
