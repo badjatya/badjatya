@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about anything related to Javascript or MERN
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ❤️ 🐶
 
 <p>
