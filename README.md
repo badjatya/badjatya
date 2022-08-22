@@ -10,7 +10,7 @@ Few things about me:
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Reactjs, Nextjs
 - 🤔 I’m looking for help with Data Structures and Algorithms
-- 💬 Ask me about anything related to Javascript or MERN
+- 💬 Ask me about anything related to JS or MERN
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)
 - ⚡ Fun fact: I ❤️ 🐶
 
