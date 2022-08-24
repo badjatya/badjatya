@@ -6,7 +6,7 @@
 
 Few things about me:
 
-- 🔭 I’m currently working on something super Cool and Exciting😉
+- 🔭 I’m currently working on something super cool and Exciting😉
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Reactjs, Nextjs
 - 🤔 I’m looking for help with Data Structures and Algorithms
