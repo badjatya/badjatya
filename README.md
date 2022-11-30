@@ -1,8 +1,13 @@
 <h2 align="center">Hi there <a href="https://www.badjatya.github.io/" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> It's Archit Badjatya</h2>
+
+<img src="https://raw.githubusercontent.com/badjatya/badjatya/1dd16378a4e8444a60b5a485402769ec11da2284/Archit%20Banner.png" alt="banner" />
+
+<!--
 <p align="center">
   <a href="https://www.instagram.com/badjatya/">Instagram</a> | 
   <a href="https://www.linkedin.com/in/badjatya/">Linkedin</a>
 </p>
+-->
 
 # 💫 About Me:
 
