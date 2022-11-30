@@ -29,8 +29,9 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=badjatya&theme=radical&no-frame=false&no-bg=false&margin-w=2)
-
+<div style="display:flex; align-items:center; justify-content:space-between;">
+![](https://github-profile-trophy.vercel.app/?username=badjatya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
 
