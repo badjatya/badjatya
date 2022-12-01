@@ -9,7 +9,7 @@
 </p>
 -->
 
-# 💫 About Me:
+# 💫 About Me
 
 - 🔭 I’m currently working on something super cool and Exciting😉<br>- 🌱 I’m currently learning MERN Stack Development<br>- 👯 I’m looking to collaborate on Reactjs, Nextjs<br>- 🤔 I’m looking for help with Data Structures and Algorithms<br>- 💬 Ask me about anything related to JS or MERN<br>- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)<br>- ⚡ Fun fact: I ❤️ 🐶
 
