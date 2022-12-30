@@ -11,7 +11,7 @@
 
 # 💫 About
 
-- 🔭 I’m currently working on something super cool and Exciting😉<br>
+- 🔭 I’m currently working on NextJS😉<br>
 - 🌱 I’m currently learning MERN Stack Development<br>
 - 👯 I’m looking to collaborate on Reactjs, Nextjs<br>
 - 🤔 I’m looking for help with Data Structures and Algorithms<br>
