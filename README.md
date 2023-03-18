@@ -11,8 +11,8 @@
 
 # 💫 About me
 
-- 🔭 I’m currently working on Nextjs😉<br>
-- 🌱 I’m currently learning MySQL<br>
+- 🔭 I’m currently working on React Native😉<br>
+- 🌱 I’m currently learning Nextjs<br>
 - 👯 I’m looking to collaborate on Reactjs, Nextjs and Nodejs<br>
 - 🤔 I’m looking for help with Data Structures and Algorithms<br>
 - 💬 Ask me about anything related to JavaScript, Nextjs or MERN<br>
