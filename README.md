@@ -9,7 +9,7 @@
 </p>
 -->
 
-# 💫 About me
+# 💫 About
 
 - 🔭 I’m currently working on React Native😉<br>
 - 🌱 I’m currently learning Nextjs<br>
