@@ -1,4 +1,4 @@
-<h2 align="center">Hey there <a href="https://www.badjatya.github.io/" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> It's Archit Badjatya</h2>
+<h2 align="center">Hii there <a href="https://www.badjatya.github.io/" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> It's Archit Badjatya</h2>
 
 <img src="https://raw.githubusercontent.com/badjatya/badjatya/1dd16378a4e8444a60b5a485402769ec11da2284/Archit%20Banner.png" alt="banner" />
 
@@ -9,7 +9,7 @@
 </p>
 -->
 
-# 💫 About
+# 💫 About me
 
 - 🔭 I’m currently working on React Native😉<br>
 - 🌱 I’m currently learning Nextjs<br>
