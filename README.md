@@ -17,6 +17,7 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms<br>
 - 💬 Ask me about anything related to JavaScript, Nextjs or MERN<br>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)<br> 
+- ✍️ Blogs: [Hashnode](https://badjatya.hashnode.dev/)<br> 
 - ⚡ Fun fact: I ❤️ 🐶
 
 ## 🌐 Socials:
