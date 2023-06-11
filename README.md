@@ -2,12 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/badjatya/badjatya/1dd16378a4e8444a60b5a485402769ec11da2284/Archit%20Banner.png" alt="banner" />
 
-<!--
-<p align="center">
-  <a href="https://www.instagram.com/badjatya/">Instagram</a> | 
-  <a href="https://www.linkedin.com/in/badjatya/">Linkedin</a>
-</p>
--->
+
+
 
 # 💫 About me
 
