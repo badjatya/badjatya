@@ -2,10 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/badjatya/badjatya/1dd16378a4e8444a60b5a485402769ec11da2284/Archit%20Banner.png" alt="banner" />
 
-
 # 💫 About me
 
-- 🔭 I’m currently working on Nextjs  Appwrite & Typescript 😉<br>
+- 🔭 I’m currently working on Nextjs & Typescript 😉<br>
 - 🌱 I’m currently learning Prisma ORM & Typescript<br>
 - 👯 I’m looking to collaborate on Reactjs, Nextjs and Nodejs<br>
 - 🤔 I’m looking for help with Data Structures and Algorithms<br>
