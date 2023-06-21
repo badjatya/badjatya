@@ -5,7 +5,7 @@
 # 💫 About me
 
 - 🔭 I’m currently working on Nextjs & Typescript 😉<br>
-- 🌱 I’m currently learning Prisma ORM & Typescript<br>
+- 🌱 I’m currently learning Typescript<br>
 - 👯 I’m looking to collaborate on Reactjs, Nextjs and Nodejs<br>
 - 🤔 I’m looking for help with Data Structures and Algorithms<br>
 - 💬 Ask me about anything related to JavaScript, Nextjs or MERN<br>
