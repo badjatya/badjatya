@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Nextjs & Typescript 😉<br>
 - 🌱 I’m currently learning Typescript<br>
 - 👯 I’m looking to collaborate on Reactjs, Nextjs, & Nodejs<br>
-- 🤔 I’m looking for help with Data Structures and Algorithms<br>
+- 🤔 I’m looking for help with Data Structures & Algorithms<br>
 - 💬 Ask me about anything related to JavaScript, Nextjs or MERN<br>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)<br> 
 - ✍️ Blogs: [Hashnode](https://badjatya.hashnode.dev/)<br>
