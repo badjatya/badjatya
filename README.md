@@ -5,7 +5,7 @@
 # 💫 About me
 
 - 🔭 I’m currently working on Nextjs & Expo React Native 😉<br>
-- 🌱 I’m currently learning Typescript<br>
+- 🌱 I’m currently learning AWS<br>
 - 👯 I’m looking to collaborate on Reactjs, Nextjs, & Nodejs<br>
 - 🤔 I’m looking for help with Data Structures & Algorithms<br>
 - 💬 Ask me about anything related to JavaScript, Nextjs, React Native or MERN<br>
