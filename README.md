@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Nextjs & React Native 😉<br>
 - 🌱 I’m currently learning AWS<br>
-- 👯 I’m looking to collaborate on Reactjs, Nextjs, & Nodejs<br>
+- 👯 I’m looking to collaborate on Nextjs, & Nodejs<br>
 - 🤔 I’m looking for help with Data Structures & Algorithms<br>
 - 💬 Ask me about anything related to JavaScript, Nextjs, React Native or MERN<br>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badjatya/)<br> 
